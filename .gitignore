@@ -1,0 +1,10 @@
+vcf_files/*
+meta_data/*
+processed_image/T1/*
+processed_image/PET/*
+preprocess/sig_pos/*
+preprocess/process_raw/*
+preprocess/data/*
+preprocess/sig_pos/*
+preprocess/logs/*
+preprocess/logs2/*
